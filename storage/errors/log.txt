@@ -1,0 +1,8 @@
+[16/10/2017 15:22:26] ERROR - https://www.carid.com/bilstein/5100-series-shocks.html - HTTP REQUEST FAILED
+[16/10/2017 15:24:23] ERROR - https://www.carid.com/trail-master/lift-kit.html - HTTP REQUEST FAILED
+[16/10/2017 15:27:14] ERROR - https://www.carid.com/bilstein/4600-series-shocks.html - HTTP REQUEST FAILED
+[16/10/2017 15:32:36] ERROR - https://www.carid.com/evo-manufacturing/bolt-on-coilover-kit.html - DATA NOT FOUND
+[16/10/2017 15:32:42] ERROR - https://www.carid.com/zone-offroad/suspension-lift-kits.html - HTTP REQUEST FAILED
+[16/10/2017 15:35:18] ERROR - https://www.carid.com/belltech/coilover-lowering-kit.html - DATA NOT FOUND
+[16/10/2017 15:35:35] ERROR - https://www.carid.com/fabtech/4-0-dirt-logic-coilovers.html - HTTP REQUEST FAILED
+[16/10/2017 15:38:39] ERROR - https://www.carid.com/afe-power/johnny-o-connell-black-series-coilover-system.html - HTTP REQUEST FAILED
